@@ -50,7 +50,7 @@ class Student extends Userr{
 // let U2=new Userr("Bilal",19)
 // U1.spoke();
 let s1=new Student("Syed KanzulEman",18);
-let s2=new Student("Syed KanzulEman",18);
+let s2=new Student("Bilal",20);
 //this si concept of OOPs
 
 
